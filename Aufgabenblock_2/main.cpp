@@ -10,6 +10,9 @@
 #define TIME_INCREMENT 0.1
 #define FUEL_UP_TIME 3
 
+/*this is a test comment to see if kaans fucking git works*/
+
+
 using namespace std;
 
 //Global time var
