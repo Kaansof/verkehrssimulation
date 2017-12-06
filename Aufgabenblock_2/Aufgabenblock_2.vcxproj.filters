@@ -14,8 +14,6 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-<<<<<<< HEAD
-=======
   <ItemGroup>
     <ClInclude Include="AktivesVO.h">
       <Filter>Header Files</Filter>
@@ -26,13 +24,13 @@
     <ClInclude Include="Fahrzeug.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="FzgVerhalten.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="PKW.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Weg.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="FzgVerhalten.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -46,6 +44,9 @@
     <ClCompile Include="Fahrzeug.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FzgVerhalten.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -55,9 +56,5 @@
     <ClCompile Include="Weg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FzgVerhalten.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
->>>>>>> 00a4a8febbb16f86195922d19c01a8a07a0da3bd
 </Project>

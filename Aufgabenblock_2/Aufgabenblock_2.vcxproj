@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-<<<<<<< HEAD
-    <ProjectGuid>{AFC7F2AD-3E7B-4E9D-8297-3548AB6FAB06}</ProjectGuid>
-=======
-    <ProjectGuid>{D000C793-9638-4218-95F1-968B11787672}</ProjectGuid>
->>>>>>> 00a4a8febbb16f86195922d19c01a8a07a0da3bd
+    <ProjectGuid>{28083B11-2431-4F1B-8F63-6109D9205951}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Aufgabenblock_2</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -150,8 +146,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-<<<<<<< HEAD
-=======
     <ClInclude Include="AktivesVO.h" />
     <ClInclude Include="Fahrrad.h" />
     <ClInclude Include="Fahrzeug.h" />
@@ -167,7 +161,6 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PKW.cpp" />
     <ClCompile Include="Weg.cpp" />
->>>>>>> 00a4a8febbb16f86195922d19c01a8a07a0da3bd
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

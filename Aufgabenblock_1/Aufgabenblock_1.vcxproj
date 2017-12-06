@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-<<<<<<< HEAD
-    <ProjectGuid>{1D922628-1A88-469B-BE8E-13C2204B4977}</ProjectGuid>
-=======
-    <ProjectGuid>{7851A813-0892-4235-B6D9-0F6C625CD64A}</ProjectGuid>
->>>>>>> 00a4a8febbb16f86195922d19c01a8a07a0da3bd
+    <ProjectGuid>{18A0B82E-945A-4B35-B75B-D0F3C30349CC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Aufgabenblock_1</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -150,11 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-<<<<<<< HEAD
-=======
     <ClInclude Include="Fahrrad.h" />
-    <ClInclude Include="Fahrzeug.h" />
-    <ClInclude Include="PKW.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
@@ -162,7 +154,6 @@
     <ClCompile Include="Fahrzeug.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PKW.cpp" />
->>>>>>> 00a4a8febbb16f86195922d19c01a8a07a0da3bd
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
